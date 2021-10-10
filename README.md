@@ -1,2 +1,2 @@
 # PC2T
-University database
+University database Java/SQL
